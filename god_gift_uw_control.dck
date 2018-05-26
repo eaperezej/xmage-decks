@@ -1,0 +1,36 @@
+NAME:God gift UW Control
+1 [XLN:34] Settle the Wreckage
+1 [DOM:67] Syncopate
+4 [KLD:25] Refurbish
+2 [AKH:8] Cast Out
+1 [DOM:26] Lyra Dawnbringer
+4 [XLN:255] Glacial Fortress
+1 [XLN:254] Field of Ruin
+2 [XLN:74] Search for Azcanta
+4 [HOU:31] Champion of Wits
+3 [AER:181] Walking Ballista
+4 [HOU:161] God-Pharaoh's Gift
+1 [KLD:15] Fumigate
+4 [XLN:48] Chart a Course
+2 [HOU:180] Ipnu Rivulet
+3 [DOM:253] Plains
+1 [DOM:254] Island
+4 [HOU:47] Strategic Planning
+2 [DOM:252] Plains
+1 [DOM:250] Plains
+4 [KLD:4] Angel of Invention
+4 [DOM:257] Island
+1 [DOM:255] Island
+1 [RIX:1] Baffling End
+1 [DOM:256] Island
+3 [AKH:245] Irrigated Farmland
+1 [XLN:17] Ixalan's Binding
+SB: 3 [KLD:5] Authority of the Consuls
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 2 [KLD:15] Fumigate
+SB: 1 [RIX:1] Baffling End
+SB: 1 [DOM:35] Shalai, Voice of Plenty
+SB: 4 [RIX:44] Negate
+SB: 3 [AKH:1] Angel of Sanctions
+LAYOUT MAIN:(1,16)(NONE,false,0)|([HOU:180],[HOU:180],[XLN:254],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[AKH:245],[AKH:245],[AKH:245],[DOM:257],[DOM:256],[DOM:257],[DOM:255],[DOM:257],[DOM:257],[DOM:254],[DOM:253],[DOM:250],[DOM:253],[DOM:252],[DOM:253],[DOM:252])([DOM:26])([KLD:4],[KLD:4],[KLD:4],[KLD:4])([AER:181],[AER:181],[AER:181])([HOU:31],[HOU:31],[HOU:31],[HOU:31])([XLN:48],[XLN:48],[XLN:48],[XLN:48])([XLN:34])([KLD:15])([RIX:1])([HOU:47],[HOU:47],[HOU:47],[HOU:47])([KLD:25],[KLD:25],[KLD:25],[KLD:25])([DOM:67])([AKH:8],[AKH:8])([HOU:161],[HOU:161],[HOU:161],[HOU:161])([XLN:17])([XLN:74],[XLN:74])
+LAYOUT SIDEBOARD:(1,7)(NONE,false,10)|([AKH:1],[AKH:1],[AKH:1])([KLD:5],[KLD:5],[KLD:5])([RIX:1])([KLD:15],[KLD:15])([RIX:44],[RIX:44],[RIX:44],[RIX:44])([DOM:35])([XLN:248])
